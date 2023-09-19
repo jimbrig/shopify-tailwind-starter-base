@@ -45,11 +45,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "4ac4a476-99d2-49fb-bc5a-5634ced12759": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -91,17 +86,6 @@
             "page": ""
           }
         },
-        "b014d32c-7f60-4d51-a9e3-095823a3b903": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "70711cdd-8f75-4d09-a661-38f659152456": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -117,14 +101,11 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "4ac4a476-99d2-49fb-bc5a-5634ced12759",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "b014d32c-7f60-4d51-a9e3-095823a3b903",
-        "70711cdd-8f75-4d09-a661-38f659152456",
         "share"
       ],
       "settings": {
@@ -238,12 +219,35 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "169508472210b64681": {
+      "type": "apps",
+      "blocks": {
+        "4a3e61f1-8df8-409c-a331-726466da4211": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "e68e2aa1-24f2-4f33-9414-e32370ed93c3": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "4a3e61f1-8df8-409c-a331-726466da4211",
+        "e68e2aa1-24f2-4f33-9414-e32370ed93c3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "related-products"
+    "related-products",
+    "169508472210b64681"
   ]
 }
