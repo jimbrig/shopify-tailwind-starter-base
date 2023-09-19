@@ -134,6 +134,24 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "10425157252631814754": {
+        "type": "shopify:\/\/apps\/strong-seo\/blocks\/strong_seo-json\/cac3404f-996d-4800-87df-baf89c0c5575",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "16278478101612877664": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6143736321357441667": {
+        "type": "shopify:\/\/apps\/tidio-live-chat-chatbots\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
